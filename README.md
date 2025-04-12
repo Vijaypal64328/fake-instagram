@@ -1,2 +1,2 @@
-# fake-instagram
-to get the username and passwords
+#instagram clone 
+ for eductional pupose only
